@@ -1,7 +1,6 @@
 from turtle import *
 
 def house():
-    speed(0)
     color("black","saddle brown")
     pensize(5)
 
